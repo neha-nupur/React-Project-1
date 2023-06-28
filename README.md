@@ -27,5 +27,10 @@ The `Main` component displays a series of fun facts about React, including infor
 - Run `npm start` to start the app.
 - Open [localhost:3000](http://localhost:3000/) in browser to view the app.
 
+## Screenshot
+
+![image](https://github.com/neha-nupur/React-Project-1/assets/110279038/879ff4b4-10b1-47ba-b148-ad1a9557bfe7)
+
+
 ## Thank You
 
